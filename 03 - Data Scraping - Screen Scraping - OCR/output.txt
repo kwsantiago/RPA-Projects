@@ -1,0 +1,64 @@
+Kyle Santiago - Data Manipulation Exercise - 03/14/2020 19:18:05
+TITLE,FORMAT
+Learning Robotic Process Automation: Create Software robots and automate business processes with the leading RPA tool – UiPath,Paperback
+"Robotic Process Automation: Guide To Building Software Robots, Automate Repetitive Tasks & Become An RPA Consultant",Paperback
+Robotic Process Automation Rpa A Complete Guide - 2020 Edition,Kindle
+The Simple Implementation Guide to Robotic Process Automation (RPA): How to Best Implement RPA in an Organization,Paperback
+The Robotic Process Automation Handbook: A Guide to Implementing RPA Systems,Paperback
+Robotic Process Automation with Blue Prism Quick Start Guide: Create software robots and automate business processes,Paperback
+Business @ the Speed of Bots: Implement RPA (Robotic process automation) and IA in a fast and scalable way. Get ready for the new age of digital transformation,Paperback
+100+ Interview Q & A in Robotic Process Automation ( RPA): 99% Frequently Asked Interview Q & A (Interview Q & A Series Book 18),Kindle
+Robotic Process Automation and Risk Mitigation: The Definitive Guide,Paperback
+Digital Workforce: Reduce Costs and Improve Efficiency using Robotic Process Automation,Paperback
+Digital Workforce: Reduce Costs and Improve Efficiency using Robotic Process Automation,Kindle
+Robotic Process Automation (RPA): Business Presentation (FlevyPro Frameworks),Kindle Edition
+Robotic Process Automation with Blue Prism Quick Start Guide: Create software robots and automate business processes,Paperback
+Robotic Process and Cognitive Automation: The Next Phase,Hardcover
+The Care and Feeding of Bots: An Owner’s Manual for Robotic Process Automation,Paperback
+"Robotic Process Automation Tools, Process Automation and Their Benefits: Understanding Rpa and Intelligent Automation",Audible Audiobook
+Rpa Robotic Process Automation A Complete Guide - 2020 Edition,Paperback
+"Robotics: What Beginners Need to Know about Robotic Process Automation, Mobile Robots, Artificial Intelligence, Machine Learning, Autonomous Vehicles, Speech Recognition, Drones, and Our Future",Audible Audiobook
+
+3.1. RPA deﬁnitions
+Only 24 of the 125 papers reviewed explicitly attempt to deﬁne
+Robotic Process Automation, and 28 papers position RPA by com-
+paring and characterising it with respect to related ﬁelds.
+Key themes mentioned in the deﬁnitions are that the purpose
+of RPA is to replace human tasks in business processes by software
+('bots') and that this software interacts with front-end systems sim-
+ilarly to human users. There were. primarily. two different views
+of the nature of the software robots (or bots): in some deﬁni-
+tions. the software is rule-based [2.9—13] and primarily performing
+repetitive, high-volume. lengthy. mundane tasks [14]; in others the
+software is trained with data. advanced. complex or ﬂexible and
+adaptable to circumstances [15.9]. In both cases. the software is
+used to deliver business processes. including IT services [9]. Only
+three deﬁnitions [16.1.14] were not limited to the software used in
+RPA. but also hint at steps towards performing RPA in the deﬁni-
+tion. which seems to be suggested by the term “automation". which
+intuitively indicates a process rather than an artefact.
+A detailed analysis of the deﬁnitions using Wacker‘s rules [17]
+is included in Appendix A.
+In our review. we found that RPA is positioned within a ﬁeld of
+other concepts. as shown in Fig. 2. RPA is typically considered to
+be more rule-based and structured than artiﬁcial intelligence. cog-
+nitive automation or expert systems [13.18-20.14]. but may also
+incorporate these techniques as a part of RPA [21]. However. [14]
+indicates that RPA could be more aware and adaptable to change.
+Compared to non-robotic (standard) automation and business
+process management. RPA is considered to be a more lightweight
+solution [22.23], targeting the front—end user interface rather than
+the back-end and data layers [2425]. Furthermore. compared to
+business process management. RPAis considered a bottom-up inte-
+grating approach rather than a top-down standardising approach.
+and is easier to conﬁgure [19,20,26—28]. A detailed analysis of the
+comparison of RPA to other concepts is shown in Appendix B.
+
+-This folder includes:
+>a Main.xaml ﬁle is automatically created, which should hold your'main
+work‘flow” ,
+>all other automation .xaml ﬁles included in the project. Please note that these
+ﬁles have to be linked to the Main.xaml through the invoke Workﬁow File
+activity, because only the Main.xaml ﬁle is executed when you run a job.
+>a .screenshots folder, if you are dealing with UI automation.
+>a projectjson ﬁle that contains information about yOur automation project.
