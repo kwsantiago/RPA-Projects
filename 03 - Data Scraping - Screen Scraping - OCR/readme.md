@@ -1,0 +1,1 @@
+This is a project to scrape information of books on Amazon, and information from PDF and images using OCR.
